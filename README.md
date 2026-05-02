@@ -68,7 +68,7 @@ Built a hybrid retrieval system combining TF-IDF and vector embeddings.
 ## Connect with me
 
 - GitHub: https://github.com/Hema0304  
-- LinkedIn: [(add your link here)](https://www.linkedin.com/in/hemavathis03/)
+- LinkedIn: https://www.linkedin.com/in/hemavathis03/
 
 
 
