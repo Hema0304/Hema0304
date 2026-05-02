@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hemavathi 👋
 
-<!--
-**Hema0304/Hema0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building RAG-based systems, semantic search, and LLM-powered applications.
 
-Here are some ideas to get you started:
+## Projects
+### Document Intelligence Assistant (RAG-based)
+- 🔗 [Live Demo](https://conversational-q-a-chatbot-with-pdf-avhnckaibfappdmbbnvehjb.streamlit.app/)
+- 💻 [GitHub](https://github.com/Hema0304/Conversational-Q-A-Chatbot-with-PDF)
+- Built a RAG pipeline using LangChain, FAISS, and Groq API for document-based Q&A
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Context-Aware Conversational Agent (LangGraph)
+- 🔗 [Live Demo](https://chatbot-with-memory-isvzvujrdlwkuulqmjehp4.streamlit.app/)
+- 💻 [GitHub](https://github.com/Hema0304/Chatbot-with-memory)
+- Developed a chatbot with memory for multi-turn, context-aware conversations
+
+---
+
+### Hybrid Semantic Search Engine
+- 🔗 [Live Demo](https://search-engine-gen-ai-swktuihviuuxmmx3wdifas.streamlit.app/)
+- 💻 [GitHub](https://github.com/Hema0304/Search-Engine-GEN-AI)
+- Built a hybrid retrieval system combining TF-IDF and vector embeddings
+---
+
+## 🛠 Tech Stack
+Python | LangChain | FAISS | Hugging Face | Streamlit | SQL
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/hemavathis03/
