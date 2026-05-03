@@ -1,4 +1,4 @@
-# Hi, I'm Hemavathi 👋
+# Hi, I'm Hemavathi 
 
 I'm an aspiring AI/ML engineer who enjoys building practical AI systems that actually solve problems.  
 Most of my work revolves around **Generative AI, NLP, and intelligent search systems**.
@@ -49,6 +49,8 @@ FAISS, ChromaDB
 A chatbot that answers questions from PDF documents using semantic search and LLMs.
 Built a RAG pipeline using LangChain, FAISS, and Groq API for document-based Q&A
 🔗 [Live Demo](https://conversational-q-a-chatbot-with-pdf-avhnckaibfappdmbbnvehjb.streamlit.app/)
+
+
 
 🔹 **LangGraph Chatbot with Memory**  
 A conversational agent that remembers context across interactions using stateful workflows.
