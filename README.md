@@ -51,6 +51,13 @@ Built a RAG pipeline using LangChain, FAISS, and Groq API for document-based Q&A
 🔗 [Live Demo](https://conversational-q-a-chatbot-with-pdf-avhnckaibfappdmbbnvehjb.streamlit.app/)
 
 
+🔹 **GEN-AI with SQL (Text-to-SQL Application)**  
+This project is a Generative AI-powered application that allows users to interact with databases using natural language.
+Instead of writing SQL queries manually, users can simply ask questions, and the system generates and executes SQL queries to return results.
+## Live Demo
+🔗[Live Demo](https://gen-ai-with-sql-6maxwvdygr8n97q6ujewzt.streamlit.app/)
+
+
 
 🔹 **LangGraph Chatbot with Memory**  
 A conversational agent that remembers context across interactions using stateful workflows.
