@@ -36,7 +36,7 @@ LangChain, LangGraph, Hugging Face Transformers
 NumPy, Pandas, Scikit-learn, NLTK  
 
 **Tools & Platforms**  
-Streamlit, Git, Jupyter Notebook, API Integration  
+Streamlit, Git, Jupyter Notebook, API Integration , VSCode, Antigravtity
 
 **Vector Databases**  
 FAISS, ChromaDB  
