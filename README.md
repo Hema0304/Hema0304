@@ -56,7 +56,12 @@ This project is a Generative AI-powered application that allows users to interac
 Instead of writing SQL queries manually, users can simply ask questions, and the system generates and executes SQL queries to return results.
 🔗[Live Demo](https://gen-ai-with-sql-6maxwvdygr8n97q6ujewzt.streamlit.app/)
 
-https://simplernn-nzzsykqvrtun3tfwt9dvqk.streamlit.app/
+
+
+🔹 **Simple RNN Implementation (Deep Learning for Sequential Data)**  
+This project demonstrates the implementation of a Simple Recurrent Neural Network (Simple RNN) for handling sequential or time-dependent data, a Simple RNN is designed to process data step-by-step while retaining information from previous inputs, making it suitable for tasks where order and sequence matter.
+🔗[Live Demo](https://simplernn-nzzsykqvrtun3tfwt9dvqk.streamlit.app/)
+
 
 
 
