@@ -45,6 +45,13 @@ FAISS, ChromaDB
 
 ## Featured Projects
 
+🔹 **Government Policy Intelligence System**  
+An AI-powered system for analyzing and retrieving government policies using Retrieval-Augmented Generation (RAG).  
+Allows users to query policy documents and receive context-aware responses using semantic search and LLMs.
+Government policies are often lengthy and difficult to navigate.  
+This system simplifies access by enabling natural language queries over policy documents and retrieving relevant insights.
+🔗 [Live Demo](https://governmentintelligencesystem-edud4yffz7qfkb937gd425.streamlit.app/)
+
 🔹 **RAG-Based Conversational Q&A Chatbot**  
 A chatbot that answers questions from PDF documents using semantic search and LLMs.
 Built a RAG pipeline using LangChain, FAISS, and Groq API for document-based Q&A
